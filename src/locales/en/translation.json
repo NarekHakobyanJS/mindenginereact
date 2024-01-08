@@ -1,0 +1,111 @@
+{
+  "Header": {
+    "Home": "Home",
+    "TargetAudience": "Target Audience",
+    "WhyUs": "Why Us",
+    "Program": "Program",
+    "OurTeam": "Our Team",
+    "FAQ": "FAQ",
+    "ContactUs": "Contact Us"
+  },
+  "Main": {
+    "Title1": "TRADE SMART, INVEST BOLDLY",
+    "Title2": "MINDENGIN GUIDES YOUR FINANCIAL JOURNEY"
+  },
+  "Overview": {
+    "Text": "\nWelcome to Mindengin, your gateway to mastering the ever-evolving world of trading with confidence and competence. We are dedicated to providing world-class educational program tailored to empower both aspiring and seasoned investors to achieve their financial goals.\nUnlock the secrets of successful trading with our comprehensive and meticulously curated course. From grasping market fundamentals to mastering advanced trading strategies"
+  },
+  "TargetAudience": {
+    "Title1": "Target",
+    "Title2": "Audience",
+    "1": {
+      "Title": "Aspiring Adventurers",
+      "Text": "Although Mindengin provides accessible training and support, analyzing the intricacies of the market is still not an easy task for newbies. Is the course tailored for beginners, does it provide novice traders with the skills and experience to overcome psychological barriers to management and trading? Moreover, sharing experience is not enough, novice traders need active mentoring guidance to grow and realize their potential."
+    },
+    "2": {
+      "Title": "Seasoned Sharpeners",
+      "Text": "Mindengin's specialized programs are designed to set new benchmarks and increase profitability. In the constantly changing market conditions, the courses are always updated, up-to-date and innovative. In addition, a network of experienced traders is created, which can contribute to the process of profitability."
+    },
+    "3": {
+      "Title": "Career Changer",
+      "Text": "Day by day in the developing market, the number of professionals interested in trading, who strive for financial independence, is increasing. Mindengin's team, being experienced in the field and having a clearly developed training plan, will help to achieve financial independence and record success."
+    }
+  },
+  "Info": {
+    "Text": "Our brand-new vision is centered around making trading education accessible, enjoyable, and effective for all. We leverage cutting-edge technologies, real-world case studies, and dynamic learning experiences to ensure you stay ahead of the curve. No more dull lectures or confusing jargon – we break down complex concepts into digestible, actionable insights."
+  },
+  "WhyUs": {
+    "Title": "Why",
+    "1": {
+      "Title": "Cutting-Edge Curriculum",
+      "Text": "Stay ahead of the curve with our continuously updated curriculum that incorporates the latest market research, cutting-edge strategies, and emerging trends. Our comprehensive courses cater to various learning styles and risk tolerances, covering diverse approaches from fundamental analysis to algorithmic trading. You'll benefit from expert-led instruction by renowned industry professionals with proven track records, ensuring you receive practical insights and real-world knowledge."
+    },
+    "2": {
+      "Title": "Adaptive Learning Approach",
+      "Text": "Our curriculum isn't one-size-fits-all. We employ an adaptive learning approach that adjusts to your individual progress and mastery level. Whether you're a beginner seeking foundational knowledge or a seasoned trader looking to refine your strategies, our courses cater to your unique needs. You'll receive targeted exercises, personalized feedback, and expert guidance to accelerate your learning curve and maximize your potential."
+    },
+    "3": {
+      "Title": "Unwavering Commitment to Success",
+      "Text": "We measure our success by your achievements. Beyond coursework, we offer ongoing guidance and resources to address your evolving needs and market challenges. We're dedicated to innovation, constantly investing in research and development to ensure our programs remain at the forefront of the trading education landscape."
+    },
+    "4": {
+      "Title": "Invest in Your Future",
+      "Text": "Trading is a skill, not a gamble. Mindengin empowers you with the knowledge and confidence to navigate market complexities and make informed decisions. Unlock your earning potential and take control of your financial future with sustainable trading strategies and risk management skills. Join our network of successful alumni and contribute to the dynamic world of trading with your newfound expertise."
+    }
+  },
+  "Program": {
+    "Title": "Program",
+    "1": {
+      "Title": "Finance and Economics",
+      "Text": "1 The Genealogy of Finance \n2 Types of finance \n3. The foundations of economics \n4. Banking system \n5. Money laundering \n6. Financial management"
+    },
+    "2": {
+      "Title": "Web3 and Decentralization",
+      "Text": "1. The history of Web1, Web2, Web3, switching from web2 to web3.\n2. Web3 technologies \"Blockchain\"\n3. Blockchain versions Layer1 Layer2\n4. Centralized and Decentralized Exchanges (Differences)\n5. Types of wallets (Differences)"
+    },
+    "3": {
+      "Title": "Tokenomics",
+      "Text": "1. What is Tokenomics and what does it study?\n2. Pre-Listing Token Sale\n3. Tokenomics (Presentation)\n4. Tokenomics (Practice)"
+    },
+    "4": {
+      "Title": "Crypto-Trading",
+      "Text": "Lesson 1\n Familiarity with technical analysis, Japanese candlesticks and\"Smart Money\" concept.\nLesson 2\n Introduction to TradingView\n How to use the program for graph analysis\nLesson 3\n Familiarity with Graphs.\n A study of Japanese candles.\n Use of indicators\n Use of instruments (Fibbonacci, Fixed range volume profile, Long, Short positions, etc.)\nLesson 4\n Technical and Graphical Analysis.\n Basics of technical analysis\n The logic of technical analysis\n Graphical analysis\nLesson 5\n Familiarity with technical analysis, Japanese candlesticks and\n \"Smart Money\" concept.\nLesson 6\n Introduction to TradingView\n How to use the program for graph analysis\nLesson 7\n Familiarity with Graphs.\n A study of Japanese candles.\n Use of indicators\n Use of instruments (Fibbonacci, Fixed range volume\n profile, Long, Short positions, etc.)\nClass 8\n Technical and Graphical Analysis.\n Basics of technical analysis\n The logic of technical analysis\n Graphical analysis\nLesson 9\n Purchase and Sale types\n As well as the market order system.\n Logic of Long and Short transactions study.\nLesson 10\n We study the behavior of the market (Price Action)\n A pricing study based on Japanese candles \n A Study of Pricing by Patterns\n Study of pricing according to indicators\nLesson 11\n Smart Money concept\n We study the role of a major player (marketmaker) in the market.\n The strategy of the big player\n How to work alongside and not against a major player.\nLesson 12\n Smart Money concept\n Liquidity in the market\n Unequal market pricing and its use\nGap:\nImbalance:\nLesson 13\n Smart Money concept\n Market Structure\n Rising and falling market structure\n Maximums and Minimums\nLesson 14\n Smart Money concept\n Order Block\n When does a major player change price direction?\n The strategy of major players and Japanese candlesticks the analysis\nLesson 15\n Hedging and One-way Trading\n Whether to have a chained and chained small\n transactions or work requiring large and consolidation\n with transactions\nLesson 16\n Final trading strategy formulation\n Summary of the course\n Defining the Trader's Workstyle"
+    }
+  },
+  "Team": {
+    "Title1": "Our",
+    "Title2": "Team"
+
+  },
+  "FAQ": {
+    "Title": "FAQ",
+    "1": {
+      "Title": "Is Mindengin suitable for beginners with no prior trading experience?",
+      "Text": "Yes, we offer beginner-friendly course designed to introduce you to the basics of trading, from market fundamentals to technical analysis. We guide you step-by-step, building your confidence and understanding at a comfortable pace. However, trading involves inherent risks, and we recommend thorough research and risk management practices before venturing into the market."
+    },
+    "2": {
+      "Title": "What makes Mindengin different from other trading education providers?",
+      "Text": "Our focus is on personalized learning and active mentorship. You'll be assigned an experienced instructor who understands your individual goals and risk tolerance. They'll provide tailored guidance, answer your questions, and help you navigate real-world trading scenarios."
+    },
+    "3": {
+      "Title": "What are the risks of trading, and how does Mindengin help me manage them?",
+      "Text": "Unfortunately, trading involves inherent risks of loss. It's essential to understand these risks before starting and never invest more than you can afford to lose. We go beyond theoretical lectures and equip you with practical risk management strategies, helping you make informed decisions and mitigate potential losses."
+    },
+    "4": {
+      "Title": "Can Mindengin guarantee my success in trading?",
+      "Text": "No one can guarantee success in trading, as market dynamics are complex and unpredictable. However, by acquiring the necessary knowledge, skills, and risk management techniques, you can significantly increase your chances of success. We provide the tools and resources you need to navigate the market independently and make informed decisions."
+    },
+    "5": {
+      "Title": "Does Mindengin's community offer ongoing support and learning opportunities?",
+      "Text": "Absolutely! Our vibrant community connects you with fellow traders at all experience levels. You can share experiences, learn from each other, and participate in exclusive workshops and webinars conducted by industry experts. We believe in lifelong learning and support our members beyond initial coursework."
+    }
+  },
+  "ContactUs": {
+    "Title": "Contact Us",
+    "Name": "First Name",
+    "Surname": "Last Name",
+    "Email": "Email",
+    "Message": "Message",
+    "Send": "Send"
+  }
+}
